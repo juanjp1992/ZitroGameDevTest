@@ -1,0 +1,54 @@
+{
+  "quiz_answers": [
+    {
+      "pregunta": "¿Cuál es el planeta natal de Spock en Star Trek?",
+      "respuestas": ["Vulcano", "Tatooine", "Alderaan"],
+      "respuesta_correcta": "Vulcano"
+    },
+    {
+      "pregunta": "¿Qué personaje de Marvel es conocido como el 'Hombre Araña'?",
+      "respuestas": ["Bruce Banner", "Tony Stark", "Peter Parker"],
+      "respuesta_correcta": "Peter Parker"
+    },
+    {
+      "pregunta": "¿En qué película de ciencia ficción aparece un ordenador llamado HAL 9000?",
+      "respuestas": ["Blade Runner", "2001: Odisea del espacio", "Matrix"],
+      "respuesta_correcta": "2001: Odisea del espacio"
+    },
+    {
+      "pregunta": "¿Qué superhéroe es conocido como 'El Hombre de Acero'?",
+      "respuestas": ["Spider-Man", "Superman", "Iron Man"],
+      "respuesta_correcta": "Superman"
+    },
+    {
+      "pregunta": "¿Cuál es el nombre del robot amigable en la película 'Wall-E'?",
+      "respuestas": ["R2-D2", "C-3PO", "EVE"],
+      "respuesta_correcta": "EVE"
+    },
+    {
+      "pregunta": "¿Cuál es el nombre del barco espacial en 'Firefly'?",
+      "respuestas": ["Serenity", "Galáctica", "Enterprise"],
+      "respuesta_correcta": "Serenity"
+    },
+    {
+      "pregunta": "¿Quién interpretó a Neo en la película 'Matrix'?",
+      "respuestas": ["Keanu Reeves", "Will Smith", "Tom Cruise"],
+      "respuesta_correcta": "Keanu Reeves"
+    },
+    {
+      "pregunta": "¿Qué personaje de 'Star Wars' dijo: 'No, yo soy tu padre'?",
+      "respuestas": ["Darth Vader", "Obi-Wan Kenobi", "Yoda"],
+      "respuesta_correcta": "Darth Vader"
+    },
+    {
+      "pregunta": "¿Cuál es el nombre del mago principal en 'El Señor de los Anillos'?",
+      "respuestas": ["Gandalf", "Dumbledore", "Merlín"],
+      "respuesta_correcta": "Gandalf"
+    },
+    {
+      "pregunta": "¿En qué película de superhéroes aparece el villano conocido como 'Thanos'?",
+      "respuestas": ["Avengers: Infinity War", "Spider-Man: Homecoming", "Guardians of the Galaxy"],
+      "respuesta_correcta": "Avengers: Infinity War"
+    }
+  ]
+}
